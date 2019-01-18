@@ -1,0 +1,10 @@
+.logins {
+  margin-top:20px;
+}
+
+@media (min-width:767px) {
+  #banner-1 {
+    /*background-image:url("../../assets/img//Biznet_Home_Banner_828x1236px_Jan2018-IND.jpg");*/
+  }
+}
+
